@@ -1,0 +1,22 @@
+#banner {background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHnvtRUxigWKDPUKwuyRkj62L-i-5tyEABUFV6dJB98WGUIXXeDQ");  background-size: cover;background-position: bottom center;height: 200px;width: 1000px;}
+#banner .content p {position:relative;top:50px;margin:3px;color:white;}
+#Links{border:3px solid;border-color:white;width:150px;margin:5px;padding:3px;}
+body{background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFDdJaBZQQ0P_lJpOs7TDTfnA7dDmydP4L5i1bIQr-vLAcM2-E");background-size:cover;}
+a{color:white;}
+.me{float:left;position:absolute;right:871px;top:250px;}
+h1{color:black}
+h3{color:black}
+#Education{position:absolute;top:200px;right:1100px;}
+#metext{position:absolute;right:400px;width:400px;}
+#grid{width: 1500px;height: 1000px;display:grid;width:400px;grid-template:500px 500px 500px / 500px 500px 500px;}
+.box{background-color:skyblue;color: black;border-radius:5px;border: 5px black solid;width:400px;height:400px;}  
+.Rubix_Cube{width:400px;height:400px;}
+.Playstation{width:400px;height:400px;}
+.Goku{width:400px;height:400px;}
+.mecousin{width:400px;height:400px;}
+.stooges{width:400px;height:400px;transform:rotate(90deg);}
+.princess{width:400px;height:400px;transform:rotate(90deg);}
+.measchild{width:400px;height:400px;}
+.brokenme{width:400px;height:400px;}
+.programing{width:400px;height:400px;}
+.The_Doctore{width:400px;height:400px;}
