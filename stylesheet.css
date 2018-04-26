@@ -5,7 +5,7 @@ body{background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9G
 a{color:white;}
 #aboutmetext h3{min-width:200px;min-height:200px}
 #uglyme {width:50%;height:200px;}
-#uglyme img{height:auto;display:block;position:absolute;right:871px;top:250px;}
+#uglyme img{height:auto;;position:absolute;right:50%;top:250px;}
 h1{color:black}
 h3{color:black}
 #Education{position:absolute;top:200px;right:1100px;}
