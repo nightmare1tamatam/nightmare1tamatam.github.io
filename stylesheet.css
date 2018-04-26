@@ -4,8 +4,8 @@
 body{background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFDdJaBZQQ0P_lJpOs7TDTfnA7dDmydP4L5i1bIQr-vLAcM2-E");background-size:cover;}
 a{color:white;}
 #aboutmetext h3{min-width:200px;min-height:200px}
-#uglyme {overflow:hidden;max-width:30%;}
-#uglyme img{height:auto;display:block;}
+#uglyme {width:50%;height:200px;}
+#uglyme img{height:auto;display:block;position:absolute;right:871px;top:250px;}
 h1{color:black}
 h3{color:black}
 #Education{position:absolute;top:200px;right:1100px;}
