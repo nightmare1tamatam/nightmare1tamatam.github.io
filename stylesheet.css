@@ -1,6 +1,6 @@
 #banner {background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHnvtRUxigWKDPUKwuyRkj62L-i-5tyEABUFV6dJB98WGUIXXeDQ");  background-size: cover;background-position: bottom center;height: 200px;width: 1000px;}
 #banner .content p {position:relative;top:50px;margin:3px;color:white;}
-#Links{border:3px solid;border-color:white;width:150px;margin:5px;padding:3px;}
+#Links{border:3px solid;border-color:white;width:5%;margin:5px;padding:3px;}
 body{background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFDdJaBZQQ0P_lJpOs7TDTfnA7dDmydP4L5i1bIQr-vLAcM2-E");background-size:cover;}
 a{color:white;}
 #aboutmetext h3{min-width:600px;min-height:600px}
