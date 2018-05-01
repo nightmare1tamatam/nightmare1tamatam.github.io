@@ -3,8 +3,8 @@
 #Links{border:3px solid;border-color:white;width:5%;margin:5px;padding:3px;}
 body{background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFDdJaBZQQ0P_lJpOs7TDTfnA7dDmydP4L5i1bIQr-vLAcM2-E");background-size:cover;}
 a{color:white;}
-#aboutmetext h3{min-width:100px;min-height:100px;top:90%}
-#uglyme img{height:auto;position:absolute;right:30%;top:50%;width:30%;}
+#aboutmetext h3{min-width:100px;min-height:100px;top:30%}
+#uglyme img{height:auto;position:absolute;right:50%;top:30%;width:30%;}
 h1{color:black}
 h3{color:black}
 #Education{position:absolute;top:200px;right:1100px;}
